@@ -1,1 +1,6 @@
-Usage notes:
+Build and run the project or use the pre-built .jar slcsp.jar located at the project root.
+
+Usage: java -jar slcsp.jar <plans.csv file path> <zips.csv file path> <slcsp.csv file path>
+
+Author: Robert Hom
+Date: 8/10/2017
