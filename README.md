@@ -4,3 +4,4 @@ Usage: java -jar slcsp.jar <plans.csv file path> <zips.csv file path> <slcsp.csv
 
 Author: Robert Hom
 Date: 8/10/2017
+Purpose: AdHoc Homework assignment
